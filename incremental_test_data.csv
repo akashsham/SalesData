@@ -1,0 +1,13 @@
+Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Day,Month,Year,BranchName,DealerName,Product_Name
+BR9546_1,DLR0060_1,Jee-M10_1,7223452,2,DT01246_1,29,6,2021,Premier Motors_1,"Fisker, Karma Motors_1",Jeep_1
+BR9546_2,DLR0060_2,Jee-M10_2,7223453,3,DT01246_2,30,7,2022,Premier Motors_2,"Fisker, Karma Motors_2",Jeep_2
+BR9546_3,DLR0060_3,Jee-M10_3,7223454,4,DT01246_3,31,8,2023,Premier Motors_3,"Fisker, Karma Motors_3",Jeep_3
+BR9546_4,DLR0060_4,Jee-M10_4,7223455,5,DT01246_4,32,9,2024,Premier Motors_4,"Fisker, Karma Motors_4",Jeep_4
+BR9546_5,DLR0060_5,Jee-M10_5,7223456,6,DT01246_5,33,10,2025,Premier Motors_5,"Fisker, Karma Motors_5",Jeep_5
+BR9546_6,DLR0060_6,Jee-M10_6,7223457,7,DT01246_6,34,11,2026,Premier Motors_6,"Fisker, Karma Motors_6",Jeep_6
+BR9546_7,DLR0060_7,Jee-M10_7,7223458,8,DT01246_7,35,12,2027,Premier Motors_7,"Fisker, Karma Motors_7",Jeep_7
+BR9546_8,DLR0060_8,Jee-M10_8,7223459,9,DT01246_8,36,13,2028,Premier Motors_8,"Fisker, Karma Motors_8",Jeep_8
+BR9546_9,DLR0060_9,Jee-M10_9,7223460,10,DT01246_9,37,14,2029,Premier Motors_9,"Fisker, Karma Motors_9",Jeep_9
+BR9546_10,DLR0060_10,Jee-M10_10,7223461,11,DT01246_10,38,15,2030,Premier Motors_10,"Fisker, Karma Motors_10",Jeep_10
+BR9546_11,DLR0060_11,Jee-M10_11,7223462,12,DT01246_11,39,16,2031,Premier Motors_11,"Fisker, Karma Motors_11",Jeep_11
+BR9546_12,DLR0060_12,Jee-M10_12,7223463,13,DT01246_12,40,17,2032,Premier Motors_12,"Fisker, Karma Motors_12",Jeep_12
