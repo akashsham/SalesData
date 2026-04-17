@@ -1,0 +1,5 @@
+Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Day,Month,Year,BranchName,DealerName,Product_Name
+BR9726,DLR0063,Jee-M13,22372413,3,DT01247,31,5,2020,Power Ranger Motors,Ford do Brasil Motors,Jeep
+XYZ9726,XYZ0063,ZYXM13,22372413,3,DT01247,31,5,2020,DataFam Motors,Datafam Dealers,Surprise
+XYZ9727,XYZ0064,ZYXM14,22372414,3,DT01248,31,5,2020,DataFam Motors,Datafam Dealers,Surprise
+XYZ9728,XYZ0065,ZYXM15,22372415,3,DT01249,31,5,2020,DataFam Motors,Datafam Dealers,Surprise
